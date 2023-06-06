@@ -26,4 +26,4 @@ Result of Biveriant Analysis:
   2. 'F' and 'G' grade customers are tends to be Defaulters
   3. The subgrades 'E3','F1','F2','F5' are more tends to be defaulters
   4. The Subgrades A1 to A5 have less chance to be defaulters
- ====================================================================Thank You==================================================================================
+ ==================Thank You=======================
